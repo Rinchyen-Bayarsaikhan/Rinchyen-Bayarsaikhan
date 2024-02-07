@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rinchyen-Bayarsaikhan
 - 👀 I’m interested in Web and Game development
-- 🌱 I’m currently learning IT and AI in AGH university in Poland and learning web and game development by myself
+- 🌱 I’m currently learning IT and AI in AGH university in Poland
 - 💞️ I’m looking to collaborate on game ideas and development 
 - 📫 How to reach me: rinchyen.bayarsaikhan@gmail.com this is my work mail address 
 <p>:earth_asia: Have a Awesome Day!!! :earth_americas: </p>
